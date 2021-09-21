@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 [RequireComponent(typeof(Wallet))] 
 public class Player : MonoBehaviour
@@ -11,7 +12,11 @@ public class Player : MonoBehaviour
 
     private float _currentHealth;
     private int _currentWeaponIndex = 0;
-    private GameObject _createdWeapon;
+    private float _currentTime = 0;
+    private float _timeForDeathAnimation = 2;
+    private GameObject _currentWeapon;
+
+    public UnityAction<float, float> HealthChanged;
 
     private void Start()
     {
@@ -26,21 +31,63 @@ public class Player : MonoBehaviour
 
     private void SetWeapon(int index)
     {
+        if (index >= _armory.Count)
+            index = 0;
+
+        var weapon = _armory[index].GetComponent<Weapon>();
+
+        if (weapon == null)
+            return;
+            
+        if (!weapon.IsBought)
+            return;
+
+        Destroy(_currentWeapon);
         _currentWeaponIndex = index;
-        Destroy(_createdWeapon);
-        _createdWeapon = Instantiate(_armory[_currentWeaponIndex], _handPoint.position, Quaternion.identity);
+        _currentWeapon = Instantiate(_armory[_currentWeaponIndex], _handPoint.position, Quaternion.identity);
     }
 
     private void CheckHealth()
     {
         if (_currentHealth <= 0)
-        {
+            Die();
+    }
+
+    private void Die()
+    {
+        TryGetComponent(out Animator animator);
+
+        if (_currentTime == 0)
+            animator.Play("Death");
+        
+            _currentTime += Time.deltaTime;
+
+        if (_timeForDeathAnimation <= _currentTime)
             Destroy(gameObject);
-        }
+
+        Destroy(_currentWeapon);
+    }
+
+    public void ChangeWeapon()
+    {
+        ++_currentWeaponIndex;
+        SetWeapon(_currentWeaponIndex);
     }
 
     public void TakeDamage(float damage)
     {
         _currentHealth -= damage;
+        HealthChanged?.Invoke(_health, _currentHealth);
+    }
+
+    public void BuyWeapon(Weapon weapon)
+    {
+        foreach(GameObject item in _armory)
+        {
+            item.TryGetComponent(out Weapon weap);
+
+            if (weap.WeaponInfo.Name==weapon.WeaponInfo.Name)
+                weap.SetBought(true);
+        } 
     }
 }

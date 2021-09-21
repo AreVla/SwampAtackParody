@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: a3fcab31d7c77df48be0dbd68a123dc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2260611798700051367
+    second: PC_HMM2_greaterdruid_0
+  - first:
+      213: -5026518893705073915
+    second: PC_HMM2_greaterdruid_1
+  - first:
+      213: 4381177954582826770
+    second: PC_HMM2_greaterdruid_2
+  - first:
+      213: 1222863886810819978
+    second: PC_HMM2_greaterdruid_3
+  - first:
+      213: -84067389600897168
+    second: PC_HMM2_greaterdruid_4
+  - first:
+      213: -8510761071037585558
+    second: PC_HMM2_greaterdruid_13
+  - first:
+      213: -8806239506585321630
+    second: PC_HMM2_greaterdruid_14
+  - first:
+      213: -1961939801884954486
+    second: PC_HMM2_greaterdruid_15
+  - first:
+      213: 9023658469903636629
+    second: PC_HMM2_greaterdruid_16
+  - first:
+      213: -4288048076166244817
+    second: PC_HMM2_greaterdruid_17
+  - first:
+      213: -6950040121281906486
+    second: PC_HMM2_greaterdruid_18
+  - first:
+      213: 2709382510334059270
+    second: PC_HMM2_greaterdruid_19
+  - first:
+      213: 879159451112931514
+    second: PC_HMM2_greaterdruid_20
+  - first:
+      213: -8953256849520777379
+    second: PC_HMM2_greaterdruid_21
+  - first:
+      213: -5028038504501550767
+    second: PC_HMM2_greaterdruid_22
+  - first:
+      213: 3650416527159124225
+    second: PC_HMM2_greaterdruid_23
+  - first:
+      213: 3553770636223501570
+    second: PC_HMM2_greaterdruid_24
+  - first:
+      213: 8825227474127004880
+    second: PC_HMM2_greaterdruid_25
+  - first:
+      213: -1786347547028557220
+    second: PC_HMM2_greaterdruid_26
+  - first:
+      213: 1211000413963655425
+    second: PC_HMM2_greaterdruid_27
+  - first:
+      213: -6049360829859821104
+    second: PC_HMM2_greaterdruid_28
+  - first:
+      213: 8621709280663214718
+    second: PC_HMM2_greaterdruid_29
+  - first:
+      213: -5269438223610473811
+    second: PC_HMM2_greaterdruid_30
+  - first:
+      213: 6882409948420963499
+    second: PC_HMM2_greaterdruid_31
+  - first:
+      213: 8796652978750747199
+    second: PC_HMM2_greaterdruid_32
+  - first:
+      213: -4477644896787696395
+    second: PC_HMM2_greaterdruid_33
+  - first:
+      213: -180827624971170700
+    second: PC_HMM2_greaterdruid_34
+  - first:
+      213: 4540827262406437108
+    second: PC_HMM2_greaterdruid_35
+  - first:
+      213: -8232800011963626708
+    second: PC_HMM2_greaterdruid_36
+  - first:
+      213: 1406215199723492804
+    second: PC_HMM2_greaterdruid_37
+  - first:
+      213: 782057777775121848
+    second: PC_HMM2_greaterdruid_38
+  - first:
+      213: -3228338950155818489
+    second: PC_HMM2_greaterdruid_39
+  - first:
+      213: -3636630490807144156
+    second: PC_HMM2_greaterdruid_40
+  - first:
+      213: -5887742165693444638
+    second: PC_HMM2_greaterdruid_41
+  - first:
+      213: -7035257352193683098
+    second: PC_HMM2_greaterdruid_42
+  - first:
+      213: -102493108328205352
+    second: PC_HMM2_greaterdruid_43
+  - first:
+      213: 8176005381500561756
+    second: PC_HMM2_greaterdruid_44
+  - first:
+      213: 8229616538859206662
+    second: PC_HMM2_greaterdruid_45
+  - first:
+      213: 2253481974598984020
+    second: PC_HMM2_greaterdruid_47
+  - first:
+      213: 1967021478604773061
+    second: PC_HMM2_greaterdruid_48
+  - first:
+      213: -8773564050647322557
+    second: PC_HMM2_greaterdruid_56
+  - first:
+      213: 5530126408782506163
+    second: PC_HMM2_greaterdruid_57
+  - first:
+      213: -361787079813470766
+    second: PC_HMM2_greaterdruid_58
+  - first:
+      213: -4761954279555026738
+    second: PC_HMM2_greaterdruid_59
+  - first:
+      213: 645526774881278702
+    second: PC_HMM2_greaterdruid_61
+  - first:
+      213: -6093984927413431410
+    second: PC_HMM2_greaterdruid_62
+  - first:
+      213: 3295371659139801152
+    second: PC_HMM2_greaterdruid_63
+  - first:
+      213: 4484532272066719805
+    second: PC_HMM2_greaterdruid_64
+  - first:
+      213: -3314786318847278899
+    second: PC_HMM2_greaterdruid_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 490
+        width: 35
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc294247e4f5f10800000000000000
+      internalID: 2260611798700051367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 490
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b6be3a2b73e3ab0800000000000000
+      internalID: -5026518893705073915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 490
+        width: 33
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f8ea023221dcc30800000000000000
+      internalID: 4381177954582826770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 490
+        width: 33
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d230ed93c78f010800000000000000
+      internalID: 1222863886810819978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 490
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077e4a1972555def0800000000000000
+      internalID: -84067389600897168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 392
+        width: 34
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e498d5e3b3e980800000000000000
+      internalID: -8510761071037585558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 392
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f78f283d3f9c580800000000000000
+      internalID: -8806239506585321630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 392
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8072fd152ac5c4e0800000000000000
+      internalID: -1961939801884954486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 392
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981d09a1997a3d70800000000000000
+      internalID: 9023658469903636629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 392
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2650586efacd74c0800000000000000
+      internalID: -4288048076166244817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_18
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 392
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87744255f7c8f90800000000000000
+      internalID: -6950040121281906486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 392
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6032e19c909a99520800000000000000
+      internalID: 2709382510334059270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 392
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08380ecd6633c00800000000000000
+      internalID: 879159451112931514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 391
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d572b7de454afb380800000000000000
+      internalID: -8953256849520777379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_22
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 391
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151e23eae91d83ab0800000000000000
+      internalID: -5028038504501550767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_23
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 391
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e88f9d72e8a230800000000000000
+      internalID: 3650416527159124225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_24
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 391
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205d051a097815130800000000000000
+      internalID: 3553770636223501570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 291
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4ab5131a1897a70800000000000000
+      internalID: 8825227474127004880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 291
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f8f5de5e9537e0800000000000000
+      internalID: -1786347547028557220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 291
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1099729d5765ec010800000000000000
+      internalID: 1211000413963655425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 292
+        width: 34
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90b0a406a5c0ca0800000000000000
+      internalID: -6049360829859821104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 292
+        width: 36
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a9e9639e676a770800000000000000
+      internalID: 8621709280663214718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 292
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da215d3bad13fd6b0800000000000000
+      internalID: -5269438223610473811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_31
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 292
+        width: 36
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacfe3e226b338f50800000000000000
+      internalID: 6882409948420963499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 291
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f1da074df31a70800000000000000
+      internalID: 8796652978750747199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_33
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 290
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4f0a0a0b53cd1c0800000000000000
+      internalID: -4477644896787696395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 290
+        width: 37
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c0400bb329d7df0800000000000000
+      internalID: -180827624971170700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_35
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 290
+        width: 33
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8252a3652440f30800000000000000
+      internalID: 4540827262406437108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_36
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 290
+        width: 33
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b831422083fbd80800000000000000
+      internalID: -8232800011963626708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 188
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c516411641e38310800000000000000
+      internalID: 1406215199723492804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 188
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b51e16c76d6ada00800000000000000
+      internalID: 782057777775121848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 188
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa76d44d2a233d0800000000000000
+      internalID: -3228338950155818489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421f51816d7188dc0800000000000000
+      internalID: -3636630490807144156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc0c4e1b98a4ea0800000000000000
+      internalID: -5887742165693444638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6615a0b66bebd5e90800000000000000
+      internalID: -7035257352193683098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3fb2e9f0fd39ef0800000000000000
+      internalID: -102493108328205352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_44
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e50e7391077170800000000000000
+      internalID: 8176005381500561756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_45
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 187
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f164c3a8753270800000000000000
+      internalID: 8229616538859206662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 187
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451e7bb9ae9f54f10800000000000000
+      internalID: 2253481974598984020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_48
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 188
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c61dc1fc934c4b10800000000000000
+      internalID: 1967021478604773061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_56
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 98
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3407703faf90e3680800000000000000
+      internalID: -8773564050647322557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_57
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 98
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ec7e3ba4febc40800000000000000
+      internalID: 5530126408782506163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_58
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 98
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d56467519caafaf0800000000000000
+      internalID: -361787079813470766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 98
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0b87a00d32aedb0800000000000000
+      internalID: -4761954279555026738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_61
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 98
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5dcd7e2f55f800800000000000000
+      internalID: 645526774881278702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_62
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 8
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8310feeef0dd6ba0800000000000000
+      internalID: -6093984927413431410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_63
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 8
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040eae970138bbd20800000000000000
+      internalID: 3295371659139801152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_64
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 9
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30ff4467524c3e30800000000000000
+      internalID: 4484532272066719805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_HMM2_greaterdruid_65
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 9
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc088cec7638ff1d0800000000000000
+      internalID: -3314786318847278899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

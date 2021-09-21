@@ -15,7 +15,7 @@ public class LookAtCursor : MonoBehaviour
         mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
         var angle = Vector2.Angle(Vector2.right, mousePosition - transform.position);
 
-        if (angle>=-30&&angle<=30)
+        if (angle>=-45&&angle<=45)
         transform.eulerAngles = new Vector3(0f, 0f, transform.position.y < mousePosition.y ? angle : -angle);
     }
 }

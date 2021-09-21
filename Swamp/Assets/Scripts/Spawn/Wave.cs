@@ -1,11 +1,12 @@
 
 using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 [Serializable]
 public class Wave 
 {
-    public GameObject Template;
+    public List<GameObject> Templates;
     public float Delay;
     public int Count;
     [NonSerialized]
